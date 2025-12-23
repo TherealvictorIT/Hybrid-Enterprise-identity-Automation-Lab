@@ -1,4 +1,4 @@
-# Hybrid-Enterprise-identity-Automation-Lab
+# Integrating RHEL 9 & Windows 2019 with Ansible Automation
 A cross-platform infrastructure lab integrating Red Hat Enterprise Linux 9 with Windows Server 2019 Active Directory. Features centralized identity management, RBAC, and automated "Patch Tuesday" updates via Ansible.
 
 ## Technologies Used
